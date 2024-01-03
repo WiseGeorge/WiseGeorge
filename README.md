@@ -12,7 +12,8 @@ I am a Data Scientist and Artificial Intelligence Researcher with over two years
 *   🚀  I'm currently working on [Nasa Mission: Pale Blue Dot](http://https://www.drivendata.org/competitions/256/pale-blue-dot/page/803/)
 *   🧠  I'm learning Bio Mechanic, Simulation & Finite Element Method
 *   🤝  I'm open to collaborating on Computer Vision, Computational Astrophisics, Anomaly Detection, Graph Analytics. Others Data Science related areas as well.
-*   ⚡  Top 19 at the Schneider Electric European Hackathon on the Data Science Challenge: EcoForecast & Top 2 at the Natasquad Artificial Intelligence Hackathon.
+*   🏆 Top 19 at the Schneider Electric European Hackathon on the Data Science Challenge: EcoForecast.
+*   🥈 Top 2 at the Natasquad Artificial Intelligence Hackathon.
 
 
 <a href="https://www.github.com/WiseGeorge" target="_blank" rel="noreferrer"><img
@@ -42,9 +43,6 @@ src="https://img.shields.io/github/followers/WiseGeorge?logo=github&style=for-th
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/WiseGeorge/schneider-electric-european-hackathon-2023-ecoforecast" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WiseGeorge&repo=schneider-electric-european-hackathon-2023-ecoforecast&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/WiseGeorge/fast-facial-emotion-monitoring-ffem-package" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WiseGeorge&repo=fast-facial-emotion-monitoring-ffem-package&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
 
 ---
 
