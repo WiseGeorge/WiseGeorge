@@ -45,7 +45,6 @@ src="https://img.shields.io/github/followers/WiseGeorge?logo=github&style=for-th
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/WiseGeorge/x-covnets" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WiseGeorge&repo=x-covnets&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ---
 
