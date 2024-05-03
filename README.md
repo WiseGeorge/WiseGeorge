@@ -17,7 +17,7 @@ My work is driven by a commitment to using artificial intelligence to solve comp
 *   🌍  I'm based in Havana
 *   🖥️  See my portfolio at [My Portafolio](http://www.datascienceportfol.io/wise_george)
 *   ✉️  You can contact me at [jorgefmp.mle@gmail.com](mailto:jorgefmp.mle@gmail.com)
-*   🚀  I'm currently working on [Nasa Mission: Pale Blue Dot](http://https://www.drivendata.org/competitions/256/pale-blue-dot/page/803/)
+*   🚀  I'm currently working on [Havana Science and Technology Park](https://www.3ce.cu/)
 *   🧠  I'm learning Bio Mechanic, Simulation & Finite Element Method
 *   🤝  I'm open to collaborating on Computer Vision, Computational Astrophisics, Anomaly Detection, Graph Analytics. Others Data Science related areas as well.
 *   🏆 Top 19 at the Schneider Electric European Hackathon on the Data Science Challenge: EcoForecast.
