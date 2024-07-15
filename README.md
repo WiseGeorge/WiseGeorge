@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/WiseGeorge?logo=github&style=for-th
 <a href="https://github.com/WiseGeorge" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseGeorge&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### 🏆GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=WiseGeorge&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WiseGeorge&column=2&margin-w=15&margin-h=15&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <b>Top Repositories</b>
 
