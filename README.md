@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 **Data Scientist 💻 & Artificial Intelligence Researcher 📄**
 ---------------------------------------------------
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="jorge-felix-martínez-pazos-316970356" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cu.linkedin.com/in/jorge-felix-mart%C3%ADnez-pazos-316970356?trk=profile-badge">Jorge Felix Martínez Pazos</a></div>
+              
 
 I am a Data Scientist and Artificial Intelligence Researcher with over two years of hands-on experience in the field. I am an undergraduate student from the University of Informatics Science in Havana, Cuba, with a 4.70 GPA out of 5. My passion for continuous learning and innovation has led me to constantly research and develop cutting-edge software solutions. Currently, I am involved in several research projects that span a variety of domains:
 
